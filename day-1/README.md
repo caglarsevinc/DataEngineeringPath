@@ -1,5 +1,4 @@
-# 🧭 Day 1 – EClickstream Analytics Platformu Kurulumu  
-> **90 Günlük Data Engineering Path — Gün 1**
+# 🧭 Day 1 – Clickstream Analytics Platformu Kurulumu  
 
 ## 🚀 Proje Özeti  
 
