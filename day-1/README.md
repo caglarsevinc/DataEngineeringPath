@@ -1,9 +1,9 @@
-# 🧭 Day 1 – E-Commerce Clickstream Analytics Platformu Kurulumu  
+# 🧭 Day 1 – EClickstream Analytics Platformu Kurulumu  
 > **90 Günlük Data Engineering Path — Gün 1**
 
 ## 🚀 Proje Özeti  
 
-Bu proje, **Flink**, **Kafka**, **Airflow**, **Redis**, **Docker** ve **Kubernetes** bileşenlerini bir araya getirerek gerçek-zamanlı ve batch veri işleme yeteneği sunan uçtan uca bir **e-commerce veri platformu** tasarlar.  
+Bu proje, **Flink**, **Kafka**, **Airflow**, **Redis**, **Docker** ve **Kubernetes** bileşenlerini bir araya getirerek gerçek-zamanlı ve batch veri işleme yeteneği sunan uçtan uca bir **veri platformu** tasarlar.  
 
 Örnek senaryo:  
 Kullanıcı davranışı ve satış işlemleri gerçek zamanlı olarak takip edilir — mağaza sitesi veya mobil uygulamadan gelen **tıklama**, **sepete ekleme**, **sipariş verme** ve **ödeme** olayları Kafka topic’lerine yazılır.  
@@ -13,7 +13,7 @@ Kullanıcı davranışı ve satış işlemleri gerçek zamanlı olarak takip edi
 Sonuçlar **Redis** üzerinde milisaniye düzeyinde sorgulanabilir hale gelir.  
 **Docker** ve **Kubernetes**, tüm sistemi ölçeklenebilir ve fault-tolerant şekilde çalıştırır.  
 
-🎯 Amaç: E-commerce firmalarının anlık içgörüler elde edip **dinamik fiyatlama**, **kişiselleştirilmiş öneriler** ve **fraud tespiti** yapabileceği bir modern veri platformu inşa etmek.  
+🎯 Amaç: Firmalarının anlık içgörüler elde edip **dinamik fiyatlama**, **kişiselleştirilmiş öneriler** ve **fraud tespiti** yapabileceği bir modern veri platformu inşa etmek.  
 
 ---
 
